@@ -1,7 +1,7 @@
-# stock
+# Stock Data Analysis
 This repository is for stock data analysis. I will update this repository sequentially. 
  
-Set up instruction:
+#Set up instruction:
  
 Create a new virtual environment using: $conda create -n stock python==3.7
 
